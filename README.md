@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Bóka Gábor 🇭🇺 (Syadon)</h1>
-<h3 align="center">A passionate Computer Science Engineering University student.</h3>
+<h3 align="center">A passionate Computer Science Engineering student.</h3>
 <br>
 
 - 🎓 I’m currently learning **Frontend and Backend frameworks on Udemy.**
