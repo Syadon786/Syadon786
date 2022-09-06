@@ -7,7 +7,7 @@
 - ⚡ Fun fact **I know the entire script of Revenge of the Sith by heart :)**
 
 <br>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=syadon786&show_icons=true&locale=en&theme=blue-green&count_private=true&include_all_commits=true&border_color=001F1E&text_color=09d672&icon_color=00C2C2&title_color=00F1E9&custom_title=My%20Stats" alt="syadon786" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Syadon786&show_icons=true&locale=en&theme=blue-green&count_private=true&include_all_commits=true&border_color=001F1E&text_color=09d672&icon_color=00C2C2&title_color=00F1E9&custom_title=My%20Stats" alt="syadon786" /></p>
 <hr>
 
 <h3 align="left">Languages and Tools:</h3>
