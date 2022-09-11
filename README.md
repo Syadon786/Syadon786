@@ -19,6 +19,8 @@
 <p align="middle" ><img src="https://github-readme-stats.vercel.app/api/top-langs?username=syadon786&show_icons=true&locale=en&hide=HLSL,ShaderLab,HTML&layout=compact&theme=blue-green&count_private=true&text_color=FFF&icon_color=00C2C2&title_color=00F1E9" alt="syadon786" /></p>
 <hr>
 
-![snake gif](https://github.com/Syadon786/Syadon786/blob/output/github-contribution-grid-snake.svg)
 <br>
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=syadon786&theme=blue-green&text_color=FFF&icon_color=00C2C2&title_color=00F1E9" alt="syadon786" /></p>
+<br>
+
+![snake gif](https://github.com/Syadon786/Syadon786/blob/output/github-contribution-grid-snake.svg)
