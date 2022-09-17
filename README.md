@@ -16,7 +16,7 @@
 <a href="https://www.adobe.com/in/products/premiere.html" target="_blank"><img width="40" height="40" src="https://profilinator.rishav.dev/skills-assets/adobepremierepro.png" alt="Premiere Pro"/> </a>  </p>
 
 <br><br>
-<p align="middle" ><img src="https://github-readme-stats.vercel.app/api/top-langs?username=syadon786&show_icons=true&locale=en&hide=HLSL,ShaderLab,HTML&layout=compact&theme=blue-green&count_private=true&text_color=FFF&icon_color=00C2C2&title_color=00F1E9" alt="syadon786" /></p>
+  <p align="middle" ><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Syadon786&show_icons=true&locale=en&hide=HLSL,ShaderLab,HTML&layout=compact&theme=blue-green&count_private=true&text_color=FFF&icon_color=00C2C2&title_color=00F1E9" alt="syadon786" /></p>
 <hr>
 
 <br>
